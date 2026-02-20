@@ -1,36 +1,35 @@
-# Peace and Love Circle - Society Management System
-![BLiNX Lanka Branding](https://blinx.lk/assets/img/logo.png)
+# PLC Society Management System
 
-Welcome to the official release repository for the **Peace and Love Circle Society Management System**. This application is designed to streamline society contributions, manage member data, and provide transparent financial tracking.
+Welcome to the official release repository for the **PLC Society Management System**, developed by **BLiNX Lanka (Pvt) Ltd**.
 
-## 🚀 Download Latest Version
+This application is designed to streamline society management operations, including member tracking, contribution management, and reporting.
 
-Please navigate to the [**Releases**](https://github.com/farlees/PLC-Society-App-Releases/releases) page to download the latest version for your operating system.
+## Download Latest Release
 
-- **macOS**: Download the `.dmg` or `.zip` file.
-- **Windows**: Download the `.exe` file.
+You can always find the latest version of the desktop application for your operating system on our [Releases Page](https://github.com/farlees/PLC-Society-App-Releases/releases/latest).
 
-## ✨ Features
+### Quick Links
 
-- **Member Management**: Easily add, update, and manage society members.
-- **Contribution Tracking**: Record monthly contributions with automated calculations.
-- **Financial Reports**: Generate detailed reports for income, expenses, and donations.
-- **Secure & Private**: Built with privacy in mind, ensuring your data is safe.
+- **macOS (Universal):** [Download Latest .dmg](https://github.com/farlees/PLC-Society-App-Releases/releases/latest/download/Peace-and-Love-Circle-mac.dmg) _(Note: Filename may vary by version)_
+- **Windows (x64):** [Download Latest .exe](https://github.com/farlees/PLC-Society-App-Releases/releases/latest/download/Peace-and-Love-Circle-Setup.exe) _(Note: Filename may vary by version)_
+
+## Features
+
+- **Member Management**: Comprehensive database of society members.
+- **Contribution Tracking**: Easy recording and monitoring of monthly contributions.
+- **Reporting**: Generate detailed reports for financial and operational insights.
+- **Secure Access**: Role-based access control for administrators and staff.
 - **Cross-Platform**: Available for both macOS and Windows.
 
-## 🛠 Support & Maintenance
+## Installation
 
-This application is proudly developed and maintained by **BLiNX Lanka (PVT) Ltd**.
+1. Download the installer for your operating system.
+2. Run the installer and follow the on-screen instructions.
+3. Launch the application and log in with your credentials.
 
-> **BLiNX Lanka (PVT) Ltd**  
-> *Innovating Your Digital Future*  
-> [Visit Website](https://blinx.lk)
+## Support
 
-For support inquiries, please contact our technical team or open an issue in this repository.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For technical support or inquiries, please contact **BLiNX Lanka (Pvt) Ltd**.
 
 ---
-*© 2026 Peace and Love Circle. All Rights Reserved.*
+© 2026 BLiNX Lanka (Pvt) Ltd. All rights reserved.
